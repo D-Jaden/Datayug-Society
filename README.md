@@ -112,7 +112,7 @@ Collaborate to create meaningful impact through shared ideas, resources, and ini
 ### Volunteer
 Help us build a stronger, safer, and more connected society.
 
-** Contact us via our (https://datayugsociety.datayugsociety.org/contact.html)**
+**Contact us via https://datayugsociety.datayugsociety.org/contact.html**
 
 ---
 
