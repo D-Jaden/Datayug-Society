@@ -112,7 +112,7 @@ Collaborate to create meaningful impact through shared ideas, resources, and ini
 ### Volunteer
 Help us build a stronger, safer, and more connected society.
 
-** Contact us via our [website](https://datayugsociety.datayugsociety.org/contact.html)**
+** Contact us via our (https://datayugsociety.datayugsociety.org/contact.html)**
 
 ---
 
@@ -134,7 +134,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 <div align="center">
 
-**[🌐 Visit Website](https://datayugsociety.datayugsociety.org/)** • **[Get Involved](https://datayugsociety.datayugsociety.org/contact.html)**
+**[Visit Website](https://datayugsociety.datayugsociety.org/)** • **[Get Involved](https://datayugsociety.datayugsociety.org/contact.html)**
 
 
 </div>
